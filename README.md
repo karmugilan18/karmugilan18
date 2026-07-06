@@ -77,17 +77,14 @@ Become a Software Engineer in a top product-based company.
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/u/Karmugilan_18/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
+<a href="https://www.geeksforgeeks.org/profile/elangokarugdw">
 <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
 
 </div>
 
