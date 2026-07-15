@@ -324,7 +324,7 @@ Become a Software Engineer in a top product-based company.
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/u/Karmugilan_18/">
 <img src="https://img.shields.io/badge/LeetCode-View_Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
