@@ -316,8 +316,6 @@ Become a Software Engineer in a top product-based company.
 
 </div>
 
-> Replace **YOUR_LEETCODE_USERNAME** with your actual username.
-
 ---
 
 # 🏅 Coding Profiles
