@@ -311,7 +311,7 @@ Become a Software Engineer in a top product-based company.
 <div align="center">
 
 <a href="https://leetcode.com/u/Karmugilan_18/">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/Karmugilan_18/?theme=dark&font=Poppins&ext=contest"/>
 </a>
 
 </div>
