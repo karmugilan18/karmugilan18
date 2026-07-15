@@ -310,7 +310,7 @@ Become a Software Engineer in a top product-based company.
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/u/Karmugilan_18/">
 <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
 </a>
 
@@ -328,7 +328,7 @@ Become a Software Engineer in a top product-based company.
 <img src="https://img.shields.io/badge/LeetCode-View_Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
+<a href="https://www.geeksforgeeks.org/profile/elangokarugdw/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
